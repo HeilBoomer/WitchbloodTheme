@@ -1,0 +1,21 @@
+{
+  "name": "witchblood-dark",
+  "displayName": "WitchBlood Dark",
+  "description": "Minimal vs code theme inspired by ZShell Darkblood. Credits to -M.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WitchBlood Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WitchBlood Dark-color-theme.json"
+      }
+    ]
+  }
+}
