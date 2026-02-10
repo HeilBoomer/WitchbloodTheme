@@ -1,6 +1,7 @@
 # ⚡ Witchblood Dark
 
 A high-contrast, minimalist coding environment inspired by the **"Darkblood"** ZShell theme.
+Dedicated to M ^^
 
 ![Marketplace Banner](https://raw.githubusercontent.com/HeilBoomer/WitchbloodTheme/master/images/banner.png)
 
@@ -33,3 +34,5 @@ To do this, you can also add the following to your `settings.json`:
 {
   "editor.bracketPairColorization.enabled": false
 }
+
+
