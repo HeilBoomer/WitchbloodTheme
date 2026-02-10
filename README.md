@@ -1,16 +1,35 @@
-# witchblood-dark README
+# ⚡ Witchblood Dark
 
-## Working with Markdown
+A high-contrast, minimalist coding environment inspired by the **"Darkblood"** ZShell theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Marketplace Banner](./images/banner.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## 🎨 Design Philosophy
+Witchblood Dark strips away the noise. By utilizing deep blacks and a purposeful four-color palette, it reduces visual fatigue while ensuring your logic remains the hero of the screen. No unnecessary borders, no unnecessary colors, just your code.
 
-## For more information
+## ✨ Key Features
+* **Terminal Vibe**: Directly inspired by the minimalist aesthetic of Zsh and iTerm2 setups.
+* **Core Palette**: Built around four primary colors (#C76A5F, #90DEE0, #81BA6F, #E4E4E4) for maximum consistency.
+* **High Minimalism**: Decorative UI elements and distracting borders have been removed for a "single-pane" experience.
+* **Vivid Syntax**: Purposeful color application to make Keywords, Constants, and Strings instantly recognizable.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 🌈 The Palette
+* 🔴 **Red (`#C76A5F`)**: Critical Keywords & Logic
+* 🔵 **Cyan (`#90DEE0`)**: Constants & Identifiers
+* 🟢 **Green (`#81BA6F`)**: Strings & Success States
+* ⚪ **Light Gray (`#E4E4E4`)**: Standard Text & Variables
 
-**Enjoy!**
+## 📸 Screenshots
+
+| JavaScript / React | Python / Logic |
+| :--- | :--- |
+| ![JS Preview](./images/js-preview.png) | ![Python Preview](./images/py-preview.png) |
+
+## 🛠 Extra Settings
+You might want to turn off **"Bracket Pair Colorization"** from your VS Code settings if you want to achieve an even more minimalist look. Yet, it is not recommended for functionality.
+
+To do this, you can also add the following to your `settings.json`:
+```json
+{
+  "editor.bracketPairColorization.enabled": false
+}
