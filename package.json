@@ -1,8 +1,8 @@
 {
   "name": "witchblood-dark",
   "displayName": "WitchBlood Dark",
-  "description": "Minimal VS Code Theme inspired by ZShell Darkblood. Credits to -M.",
-  "version": "1.0.4",
+  "description": "Minimal VS Code Theme inspired by ZShell Darkblood. Dedicated to M ^^",
+  "version": "1.0.5",
   "publisher": "ArdaKrkz",
   "engines": {
     "vscode": "^1.60.0"
